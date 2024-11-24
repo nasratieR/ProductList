@@ -1,0 +1,9 @@
+artisan-product-api/.env
+
+artisan-product-api/node_modules/
+artisan-product-app/node_modules/
+
+dist/
+build/
+
+
